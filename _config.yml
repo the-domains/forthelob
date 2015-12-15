@@ -1,0 +1,14 @@
+layout_spectrum: 0.001611154
+typography_spectrum: 0.1745435
+color:
+  saturation: 0.4480251
+  lightness: 0.9192694
+  brandStrength: 0.7983336
+  rhythmicContrast: 0.6479815
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: ForTheLOB
